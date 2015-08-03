@@ -22,4 +22,3 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 * Power mostly focused with EU and pressure (Pneumaticcraft).
 * Keep mod dimensions to a minimum.
 * Mod has to have unique features and not just repeat features that are already provided by other mods in the pack.        Example would be we don’t want to have 20+ other mods that add tubes or pipes for transportation in the pack. 
-* List of mods not on curse but are allowed in pack are found here [google doc link](https://docs.google.com/spreadsheets/d/1SUxIEfbAf8tqAJP-HXnT0sPOY3atCF1OKy56cHxKNdk/edit?pli=1#gid=0)
