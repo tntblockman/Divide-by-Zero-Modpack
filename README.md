@@ -1,4 +1,4 @@
-# TnTPack focused on tech and adventure (pack name may change)
+# Divide By Zero pack focused on tech and adventure (pack name may change)
 
 The modpack primary goal is a tech and adventure with genetics thrown in, themed pack. The main focus is to provide an alternative interesting way to play minecraft. Pack is designed to give you a steady progression along your path to more amazing tools and machines later on. Don’t expect to craft a bucket and iron tool on your first day, unless you’re lucky.
 
