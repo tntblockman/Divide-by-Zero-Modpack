@@ -23,6 +23,26 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 * Keep mod dimensions to a minimum.
 * Mod has to have unique features and not just repeat features that are already provided by other mods in the pack.        Example would be we don’t want to have 20+ other mods that add tubes or pipes for transportation in the pack. 
 
+##Config modification changes....##
+* Applied Energistics 2: CertusQuartzWorldGen=false, Flour=false, GrindStone=false, MEDrive=false,
+* chickenbonesCore:  Disabled infinite water
+* Bluepower: all none bluepower smelting recipes are disabled in alloy furnace
+* Gregtech: handles ore gen, all other mods ore gen is disabled, DisableIC2Cables=true, ic2 solar panel set to craftable, ic2forgehammer_true=false.
+* Falling Meteors: meteor chance has been significantly reduced("Meteor Fall Deterrence"=350),"Comet Fall Chance"=6.
+* AdvancedSolar: crafting recipes set to hard.
+* Better Foliage: round wood set to true.
+* Framez: AE, Blood Magic, HydrauliCraft, RF motors disabled.
+* Gravestone: IsFogEnabled=false, SpawnSkullCrawlersAtMobsDeath=false.
+* Weather 2: overcastMode=true, Storm_Tornado_grabBlocks=false.
+* IC2NuclearControl: recipes=gregtech.
+* MobDismemberment: bloodCount=500
+* TooMuchTime: dayDuration=24000  nightDuration=24000.
+* Railcraft: bronze recipe for minecarts disabled, saltpeter=false, sulfur=false, machine.alpha.rolling.machine=false, machine.alpha.blast.furnace=false.
+* Forestry: world.generate.apatite=false, difficulty.gamemode=HARD
+* Caveworld: vanilla ores been disabled
+* Deadly World: reduced spawner freq by half
+* Et Futurum: Doors=false
+
 ##Mod List
 | Mod | Version |
 | :------------ |:---------------|
