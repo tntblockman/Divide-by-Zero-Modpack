@@ -27,7 +27,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 * Applied Energistics 2: CertusQuartzWorldGen=false, Flour=false, GrindStone=false, MEDrive=false,
 * chickenbonesCore:  Disabled infinite water
 * Bluepower: all none bluepower smelting recipes are disabled in alloy furnace
-* Gregtech: handles ore gen, all other mods ore gen is disabled, DisableIC2Cables=true, ic2 solar panel set to craftable, ic2forgehammer_true=false.
+* Gregtech: handles ore gen, all other mods ore gen is disabled, DisableIC2Cables=true, ic2 solar panel set to craftable, ic2forgehammer_true=false, hardermobspawners=false.
 * Falling Meteors: meteor chance has been significantly reduced("Meteor Fall Deterrence"=350),"Comet Fall Chance"=6.
 * AdvancedSolar: crafting recipes set to hard.
 * Better Foliage: round wood set to true.
@@ -38,10 +38,10 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 * MobDismemberment: bloodCount=500
 * TooMuchTime: dayDuration=24000  nightDuration=24000.
 * Railcraft: bronze recipe for minecarts disabled, saltpeter=false, sulfur=false, machine.alpha.rolling.machine=false, machine.alpha.blast.furnace=false.
-* Forestry: world.generate.apatite=false, difficulty.gamemode=HARD
-* Caveworld: vanilla ores been disabled
-* Deadly World: reduced spawner freq by half
-* Et Futurum: Doors=false
+* Forestry: world.generate.apatite=false, difficulty.gamemode=HARD.
+* Caveworld: vanilla ores been disabled.
+* Deadly World: reduced spawner freq by half, disabled potion traps(potion_trap=0), disabled health regen portion for mobs(regeneration=-1).
+* Et Futurum: Doors=false.
 
 ##Mod List
 | Mod | Version |
@@ -53,11 +53,12 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Applied Energistics 2 |	rv2-stable-10|
 |AquaTweaks |	1.0|
 |Archimedes' Ships |	1.7.1|
+|ArmorStatusHUD |	1.28|
 |Better Foliage |	1.0.13|
 |Bibliocraft |	1.10.5|
 |Bibliocraft: BiblioWoods Forestry Edition |	1.7|
 |Binnie's Mods |	2.0-pre14|
-|Blue Power |	0.2.954|
+|Blue Power |	0.2.962|
 |Carpenter's Blocks |	3.3.6|
 |Caveworld |	1.9.7|
 |Chisel 2	| 2.4.1|
@@ -68,7 +69,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |DecoCraft2 |	2.0.2|
 |Doors by iChun |	4.0.1|
 |Enhanced Portals 3 |	3.0.12|
-|Et Futurum |	1.2.0|
+|Et Futurum |	1.3.1|
 |Falling Meteors Mod |	2.14.3|
 |FloodLights |	0.6.1-74|
 |Forestry	| 3.6.3|
@@ -77,32 +78,33 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Gravestone	| 2.12.4|
 |GraviSuite	| 2.0.3|
 |Gravity Gun	| 4.0.0|
-|GregTech	5 | 5.08.24|
+|GregTech	5 | 5.08.26|
 |Hardcore Ender Expansion	| 1.82|
-|Headcrums	| 1.5.5|
+|Headcrumbs	| 1.6.0|
 |IC2 Nuclear Control	| 2.2.5a|
-|In-Game Wiki Mod	| 1.1.8.28|
-|IndustrialCraft 2 Experimental	| 2.2.749|
+|In-Game Wiki Mod	| 1.1.9-29|
+|IndustrialCraft 2 Experimental	| 2.2.760|
 |Inventory Tweaks	| 1.59-dev-152|
 |Iron Chests	| 6.0.60.741|
 |Jabba	| 1.2.1a|
 |JurassicCraft	| 1.4.5|
-|Malisis' Doors	| 1.9.3|
+|Malisis' Doors	| 1.9.4|
 |Mine & Blade Battlegear 2	| 1.0.8.0|
 |MineTweaker3	| 3.0.9C|
 |MineTweaker3 RecipeMaker	| 1.1.0.11|
 |MmmMmmMmmMmm	| 1.6|
 |Mob Dismemberment	| 4.0.0|
-|Morpheus	| 1.6.9|
+|Morpheus	| 1.6.10|
+|Mouse Tweaks	| 2.4.4|
 |Mutant Creatures Mod	| 1.4.9|
 |NEI Addons	| 1.12.9.36|
-|NEI Integration	| 1.0.11|
+|NEI Integration	| 1.0.12|
 |NotEnoughItems	| 1.0.4.107|
 |ObsidiPlates	| 3.0.0.18|
-|OpenComputers	| 1.5.14.30|
+|OpenComputers	| 1.5.15.31|
 |Opis	| 1.2.5|
 |Pam's Harvestcraft	| 1.7.10.j|
-|PneumaticCraft	| 1.9.13-101|
+|PneumaticCraft	| 1.9.15-104|
 |PvPToggle	| 1.0.33|
 |Railcraft	| 9.6.1.0|
 |Realistic Pain	| 2.0|
@@ -134,7 +136,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |bspkrsCore	| 6.16|
 |CodeChickenCore	| 1.0.6.43|
 |CoroUtil	| 1.1.1|
-|MalisisCore	| 0.12.5|
+|MalisisCore	| 0.12.7|
 |MobiusCore	| 1.2.5|
 |EnderCore	| 0.0.1.13|
 |Farseek	| 1.0.8|
