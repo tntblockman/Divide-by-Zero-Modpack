@@ -2,7 +2,7 @@
 
 The modpack primary goal is a tech and adventure with added genetics, and a hint of magic. The main focus is to provide an alternative interesting way to play minecraft. Pack is designed to give you a steady progression along your path to more amazing tools and machines later on. Don’t expect to craft a bucket and iron tool on your first day, unless you’re lucky.
 
-This pack is for players who are looking for a different kind challenge. Progression starts with punching wood, collecting food, building a safe place, defending yourself against mobs (those ender creepers are terrifying xD). Keep at it, and you'll eventually get yourself into more the advanced infrastructure that awaits.
+This pack is for players who are looking for a different kind challenge. Progression starts with punching wood, collecting food, building a safe place, defending yourself against mobs (those ender creepers are terrifying xD). Keep at it, and you'll eventually get yourself into the more advanced infrastructure that awaits.
 
 "The true sign of intelligence is not knowledge but imagination."
 Albert Einstein
