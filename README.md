@@ -1,10 +1,15 @@
 # Divide By Zero pack focused on tech and adventure (pack name may change)
 
-The modpack primary goal is a tech and adventure with genetics thrown in, themed pack. The main focus is to provide an alternative interesting way to play minecraft. Pack is designed to give you a steady progression along your path to more amazing tools and machines later on. Don’t expect to craft a bucket and iron tool on your first day, unless you’re lucky.
+The modpack primary goal is a tech and adventure with added genetics, and a hint of magic. The main focus is to provide an alternative interesting way to play minecraft. Pack is designed to give you a steady progression along your path to more amazing tools and machines later on. Don’t expect to craft a bucket and iron tool on your first day, unless you’re lucky.
 
-Also this pack is for players who are perhaps looking for a different kind challenge. So players who are new to playing modded minecraft might find this pack is not for you, but feel free to give it a try if you dare. :D
+This pack is for players who are looking for a different kind challenge. Progression starts with punching wood, collecting food, building a safe place, defending yourself against mobs (those ender creepers are terrifying xD). Keep at it, and you'll eventually get yourself into more the advanced infrastructure that awaits.
+
+"The true sign of intelligence is not knowledge but imagination."
+Albert Einstein
 
 Please refer to our [GitHub](https://github.com/tntblockman/TnTpack-Modpack) page for full mod list.
+
+Modpack full [changelog](https://github.com/tntblockman/TnTpack-Modpack/blob/master/changelog) found here.
 
 For all issues you encounter related to pack, please post your issue here [issue page](https://github.com/tntblockman/TnTpack-Modpack/issues).
 
@@ -23,26 +28,6 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 * Keep mod dimensions to a minimum.
 * Mod has to have unique features and not just repeat features that are already provided by other mods in the pack.        Example would be we don’t want to have 20+ other mods that add tubes or pipes for transportation in the pack. 
 
-##Config modification changes....##
-* Applied Energistics 2: CertusQuartzWorldGen=false, Flour=false, GrindStone=false, MEDrive=false,
-* chickenbonesCore:  Disabled infinite water
-* Bluepower: all none bluepower smelting recipes are disabled in alloy furnace
-* Gregtech: handles ore gen, all other mods ore gen is disabled, DisableIC2Cables=true, ic2 solar panel set to craftable, ic2forgehammer_true=false, hardermobspawners=false.
-* Falling Meteors: meteor chance has been significantly reduced("Meteor Fall Deterrence"=350),"Comet Fall Chance"=6.
-* AdvancedSolar: crafting recipes set to hard.
-* Better Foliage: round wood set to true.
-* Framez: AE, Blood Magic, HydrauliCraft, RF motors disabled.
-* Gravestone: IsFogEnabled=false, SpawnSkullCrawlersAtMobsDeath=false.
-* Weather 2: overcastMode=true, Storm_Tornado_grabBlocks=false.
-* IC2NuclearControl: recipes=gregtech.
-* MobDismemberment: bloodCount=500
-* TooMuchTime: dayDuration=24000  nightDuration=24000.
-* Railcraft: bronze recipe for minecarts disabled, saltpeter=false, sulfur=false, machine.alpha.rolling.machine=false, machine.alpha.blast.furnace=false.
-* Forestry: world.generate.apatite=false, difficulty.gamemode=HARD.
-* Caveworld: vanilla ores been disabled.
-* Deadly World: reduced spawner freq by half, disabled potion traps(potion_trap=0), disabled health regen portion for mobs(regeneration=-1).
-* Et Futurum: Doors=false.
-
 ##Mod List
 | Mod | Version |
 | :------------ |:---------------|
@@ -54,8 +39,9 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |AquaTweaks |	1.0|
 |Archimedes' Ships |	1.7.1|
 |ArmorStatusHUD |	1.28|
+|Baubles |	1.0.1.10|
 |Better Foliage |	1.0.13|
-|Bibliocraft |	1.10.5|
+|Bibliocraft |	1.10.6|
 |Bibliocraft: BiblioWoods Forestry Edition |	1.7|
 |Binnie's Mods |	2.0-pre14|
 |Blue Power |	0.2.962|
@@ -64,14 +50,14 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Chisel 2	| 2.4.1|
 |ColorChat |	0.1.37|
 |Compass Coordinates |	0.1.8|
-|Custom Main Menu |	1.6|
+|Custom Main Menu |	1.7.1|
 |Deadly World |	1.0.2|
 |DecoCraft2 |	2.0.2|
 |Doors by iChun |	4.0.1|
 |Enhanced Portals 3 |	3.0.12|
-|Et Futurum |	1.3.1|
+|Et Futurum |	1.3.2|
 |Falling Meteors Mod |	2.14.3|
-|FloodLights |	0.6.1-74|
+|FloodLights |	0.6.5-90|
 |Forestry	| 3.6.3|
 |Framez	| 0.2-32|
 |Gendustry	| 1.5.12.107|
@@ -80,6 +66,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Gravity Gun	| 4.0.0|
 |GregTech	5 | 5.08.26|
 |Hardcore Ender Expansion	| 1.82|
+|HighLands	| 2.2.3|
 |Headcrumbs	| 1.6.0|
 |IC2 Nuclear Control	| 2.2.5a|
 |In-Game Wiki Mod	| 1.1.9-29|
@@ -88,11 +75,13 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Iron Chests	| 6.0.60.741|
 |Jabba	| 1.2.1a|
 |JurassicCraft	| 1.4.5|
+|Magic Bees	| 2.3.3|
 |Malisis' Doors	| 1.9.4|
 |Mine & Blade Battlegear 2	| 1.0.8.0|
 |MineTweaker3	| 3.0.9C|
 |MineTweaker3 RecipeMaker	| 1.1.0.11|
 |MmmMmmMmmMmm	| 1.6|
+|Mob Amputation	| 4.0.1|
 |Mob Dismemberment	| 4.0.0|
 |Morpheus	| 1.6.10|
 |Mouse Tweaks	| 2.4.4|
@@ -100,15 +89,15 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |NEI Addons	| 1.12.9.36|
 |NEI Integration	| 1.0.12|
 |NotEnoughItems	| 1.0.4.107|
+|NotEnoughResources	| 0.1.0.106|
 |ObsidiPlates	| 3.0.0.18|
 |OpenComputers	| 1.5.15.31|
 |Opis	| 1.2.5|
 |Pam's Harvestcraft	| 1.7.10.j|
-|PneumaticCraft	| 1.9.15-104|
+|PneumaticCraft	| 1.10.5-118|
 |PvPToggle	| 1.0.33|
-|Railcraft	| 9.6.1.0|
+|Railcraft	| 9.7.0.0|
 |Realistic Pain	| 2.0|
-|Realistic World Gen	| 1.3.2|
 |Recurrent Complex	| 0.9.6.3|
 |Resource Loader	| 1.2|
 |Roguelike Dungeons	| 1.3.6.3|
@@ -116,9 +105,12 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Smart Render	| 2.1|
 |StatusEffectHUD	| 1.27|
 |Steve's Carts 2	| 2.2.2.b18|
-|Storage Drawers	| 1.5.12|
+|Storage Drawers	| 1.5.13|
 |Storage Drawers: Forestry	| 1.0.1|
 |Streams	| 0.1.4|
+|Thaumcraft	| 4.2.3.5|
+|Thaumcraft Mob Aspects	| 2A|
+|Thaumic Tinkerer	| 164|
 |TooMuchTime	| 2.4.0.B3|
 |Translocators	| 1.1.1.14|
 |Waila	| 1.5.10|
