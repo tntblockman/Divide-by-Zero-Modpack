@@ -25,7 +25,7 @@ Some hints as to what you’re about to get yourself into with this pack;
 We’re always open to ideas/suggestions from the public as to what to add or change to future versions of pack.  But keep these main pack objectives in mind when suggesting ideas on the forum;
 
 * RF(power) is to be kept to an absolute bare minimum.
-* Power mostly focused with EU and pressure (Pneumaticcraft).
+* Power mostly focused with EU and pressure (PneumaticCraft).
 * Keep mod dimensions to a minimum.
 * Mod has to have unique features and not just repeat features that are already provided by other mods in the pack.        Example would be we don’t want to have 20+ other mods that add tubes or pipes for transportation in the pack. 
 
