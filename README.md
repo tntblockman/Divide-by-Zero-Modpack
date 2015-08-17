@@ -67,7 +67,6 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Gravity Gun	| 4.0.0|
 |GregTech	5 | 5.08.26|
 |Hardcore Ender Expansion	| 1.82|
-|HighLands	| 2.2.3|
 |Headcrumbs	| 1.6.0|
 |IC2 Nuclear Control	| 2.2.5a|
 |In-Game Wiki Mod	| 1.1.9-29|
@@ -99,6 +98,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |PvPToggle	| 1.0.33|
 |Railcraft	| 9.7.0.0|
 |Realistic Pain	| 2.0|
+|Realistic World Gen	| 1.3.2|
 |Recurrent Complex	| 0.9.6.3|
 |Resource Loader	| 1.2|
 |Roguelike Dungeons	| 1.3.6.3|
