@@ -38,7 +38,6 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Antique Atlas |	4.2.6|
 |Applied Energistics 2 |	rv2-stable-10|
 |AquaTweaks |	1.0|
-|Archimedes' Ships |	1.7.1|
 |ArmorStatusHUD |	1.28|
 |Baubles |	1.0.1.10|
 |Better Foliage |	1.0.13|
@@ -48,25 +47,25 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Blue Power |	0.2.962|
 |Carpenter's Blocks |	3.3.6|
 |Caveworld |	1.9.7|
-|Chisel 2	| 2.4.1|
+|Chisel 2	| 0.1.2-19|
 |ColorChat |	0.1.37|
 |Compass Coordinates |	0.1.8|
 |Custom Main Menu |	1.7.1|
 |Deadly World |	1.0.2|
-|DecoCraft2 |	2.0.2|
+|DecoCraft2 |	2.1|
 |Doors by iChun |	4.0.1|
 |Enhanced Portals 3 |	3.0.12|
-|Et Futurum |	1.3.2|
+|Et Futurum |	1.4.1|
 |Falling Meteors Mod |	2.14.3|
-|FloodLights |	0.6.5-90|
+|FloodLights |	0.6.8-96|
 |Forestry	| 3.6.3|
-|Framez	| 0.2-32|
+|Framez	| 0.2-32 Hotfix|
 |Gendustry	| 1.5.12.107|
 |Gravestone	| 2.12.4|
 |GraviSuite	| 2.0.3|
 |Gravity Gun	| 4.0.0|
-|GregTech	5 | 5.08.26|
-|Hardcore Ender Expansion	| 1.82|
+|GregTech	5u | 5.08.27|
+|Hardcore Ender Expansion	| 1.8.3|
 |Headcrumbs	| 1.6.0|
 |IC2 Nuclear Control	| 2.2.5a|
 |In-Game Wiki Mod	| 1.1.9-29|
@@ -75,9 +74,9 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Iron Chests	| 6.0.60.741|
 |Jabba	| 1.2.1a|
 |JurassicCraft	| 1.4.5|
-|Magic Bees	| 2.3.3|
+|Magic Bees	| 2.3.4|
 |Malisis' Doors	| 1.9.4|
-|Mine & Blade Battlegear 2	| 1.0.8.0|
+|Mine & Blade Battlegear 2	| 1.0.8.1|
 |MineTweaker3	| 3.0.9C|
 |MineTweaker3 RecipeMaker	| 1.1.0.11|
 |MmmMmmMmmMmm	| 1.6|
@@ -94,7 +93,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |OpenComputers	| 1.5.15.31|
 |Opis	| 1.2.5|
 |Pam's Harvestcraft	| 1.7.10.j|
-|PneumaticCraft	| 1.10.5-118|
+|PneumaticCraft	| 1.11.0-120|
 |PvPToggle	| 1.0.33|
 |Railcraft	| 9.7.0.0|
 |Realistic Pain	| 2.0|
@@ -106,8 +105,8 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Smart Render	| 2.1|
 |StatusEffectHUD	| 1.27|
 |Steve's Carts 2	| 2.2.2.b18|
-|Storage Drawers	| 1.5.13|
-|Storage Drawers: Forestry	| 1.0.1|
+|Storage Drawers	| 1.5.15|
+|Storage Drawers: Forestry	| 1.0.2|
 |Streams	| 0.1.4|
 |Thaumcraft	| 4.2.3.5|
 |Thaumcraft Mob Aspects	| 2A|
@@ -115,7 +114,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |TooMuchTime	| 2.4.0.B3|
 |Translocators	| 1.1.1.14|
 |Waila	| 1.5.10|
-|Waila Plugins	| 0.0.1-16|
+|Waila Plugins	| 0.1.2-19|
 |Waterproof	| 1.0.1|
 |Weather 2	| 2.3.9|
 |WR-CBE Universal	| 1.4.1.9|
@@ -130,12 +129,12 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |CodeChickenCore	| 1.0.6.43|
 |CoroUtil	| 1.1.1|
 |MalisisCore	| 0.12.7|
-|MobiusCore	| 1.2.5|
-|EnderCore	| 0.0.1.13|
+|MobiusCore	| 0.12.8|
+|EnderCore	| 0.1.0.19|
 |Farseek	| 1.0.8|
 |iCHunUtil	| 4.2.2|
 |IvToolKit	| 1.2|
-|K4Lib	| 0.1.50|
+|K4Lib	| 0.1.52|
 |LLibrary	| 0.3.4|
 |PlayerAPI	| 1.4|
 |QmunityLib	| 0.1.114|
