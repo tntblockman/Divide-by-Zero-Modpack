@@ -1,5 +1,37 @@
 #Pack Changelog
 
+##pack update 0.5.0##
+pack config changes....
+Deadly world: reduce silverfish spawn (silverfish_count=2.5)
+Realistic Pain Mod disabled at default until nether render issue is resolved
+SpecialMobs: chance that zombie pigmen are angry on spawn set to (hostile_pigzombies=0), Pigmen hungry mob set back to 1(hungry=0)
+Forestry: disabled crafting bronze ingot via tin and copper ingot recipe(crafting.bronze.enabled=false)
+
+mods updated....
+FloodLights: 0.6.8-96
+Framez: 0.2-32 Hotfix
+Hardcore Ender Expansion: 1.8.3
+K4lib: 0.1.52
+Magic bees: 2.3.4
+PnuematicCraft: 1.11.0-120
+StorageDrawers: 1.5.15
+Chisel 2: 0.1.2-19
+Gregtech: 5.08.27
+DecoCraft 2: 2.1
+EnderCore: 0.1.0.19
+MalisisCore: 0.12.8
+Et Futurum: 1.4.1
+Battlegear 2: 1.0.8.1
+Storage Drawers: Forestry Pack: 1.0.2
+WAILA plugins: 0.1.2-19
+
+mods added...
+none
+
+mods removed....
+Archimedes' Ships
+
+===================================
 ##pack update 0.4.0##
 config file changes...
 re-enabled (GrindStone=true)
