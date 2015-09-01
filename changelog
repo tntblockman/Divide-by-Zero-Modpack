@@ -1,5 +1,24 @@
 #Pack Changelog
 
+##pack update 0.6.0##
+pack config changes....
+Headcrumbs: Reduced group size of mobs that will spawn at once from 4 to 1
+Railcraft: change ability to feed chunk loaders with ender pearls(interact.with.pipes=false), set crafting world anchor to false(craftable=false),
+           added red sand to craft railcraft Coke Oven
+
+mods updated....
+DecoCraft 2: 2.1.1
+PneumaticCraft: 1.11.1-121
+Et Futurum: 1.4.2
+OpenComputers: 1.5.16.32
+
+mods added...
+none
+
+mods removed....
+
+
+===================================
 ##pack update 0.5.0##
 pack config changes....
 Deadly world: reduce silverfish spawn (silverfish_count=2.5)
