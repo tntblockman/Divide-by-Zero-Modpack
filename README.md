@@ -52,10 +52,10 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Compass Coordinates |	0.1.8|
 |Custom Main Menu |	1.7.1|
 |Deadly World |	1.0.2|
-|DecoCraft2 |	2.1|
+|DecoCraft2 |	2.1.1|
 |Doors by iChun |	4.0.1|
 |Enhanced Portals 3 |	3.0.12|
-|Et Futurum |	1.4.1|
+|Et Futurum |	1.4.2|
 |Falling Meteors Mod |	2.14.3|
 |FloodLights |	0.6.8-96|
 |Forestry	| 3.6.3|
@@ -90,10 +90,10 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |NotEnoughItems	| 1.0.4.107|
 |NotEnoughResources	| 0.1.0.106|
 |ObsidiPlates	| 3.0.0.18|
-|OpenComputers	| 1.5.15.31|
+|OpenComputers	| 1.5.16.32|
 |Opis	| 1.2.5|
 |Pam's Harvestcraft	| 1.7.10.j|
-|PneumaticCraft	| 1.11.0-120|
+|PneumaticCraft	| 1.11.1-121|
 |PvPToggle	| 1.0.33|
 |Railcraft	| 9.7.0.0|
 |Realistic Pain	| 2.0|
