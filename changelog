@@ -1,5 +1,28 @@
 #Pack Changelog
+##pack update 0.7.0##
+pack config changes....
 
+mods updated....
+Carpenter's Blocks: 3.3.7
+EnderCore: 0.1.0.23
+GregTech: 5.08.29
+Magic Bees: 2.3.5
+MalisisCore: 0.12.9
+MalisisDoors: 1.9.5
+PneumaticCraft: 1.11.3-123
+Open Computers: 1.5.17.33
+IGW Mod: 1.1.9-30
+RadixCore: 2.0.3
+Storage Drawers: 1.6.0
+WAILAPlugins: 0.1.2-21
+
+mods added...
+none
+
+mods removed....
+none
+
+===================================
 ##pack update 0.6.0##
 pack config changes....
 Headcrumbs: Reduced group size of mobs that will spawn at once from 4 to 1
