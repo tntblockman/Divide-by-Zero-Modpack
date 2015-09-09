@@ -45,7 +45,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Bibliocraft: BiblioWoods Forestry Edition |	1.7|
 |Binnie's Mods |	2.0-pre14|
 |Blue Power |	0.2.962|
-|Carpenter's Blocks |	3.3.6|
+|Carpenter's Blocks |	3.3.7|
 |Caveworld |	1.9.7|
 |Chisel 2	| 0.1.2-19|
 |ColorChat |	0.1.37|
@@ -64,18 +64,18 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Gravestone	| 2.12.4|
 |GraviSuite	| 2.0.3|
 |Gravity Gun	| 4.0.0|
-|GregTech	5u | 5.08.27|
+|GregTech	5u | 5.08.29|
 |Hardcore Ender Expansion	| 1.8.3|
 |Headcrumbs	| 1.6.0|
 |IC2 Nuclear Control	| 2.2.5a|
-|In-Game Wiki Mod	| 1.1.9-29|
+|In-Game Wiki Mod	| 1.1.9-30|
 |IndustrialCraft 2 Experimental	| 2.2.760|
 |Inventory Tweaks	| 1.59-dev-152|
 |Iron Chests	| 6.0.60.741|
 |Jabba	| 1.2.1a|
 |JurassicCraft	| 1.4.5|
-|Magic Bees	| 2.3.4|
-|Malisis' Doors	| 1.9.4|
+|Magic Bees	| 2.3.5|
+|Malisis' Doors	| 1.9.5|
 |Mine & Blade Battlegear 2	| 1.0.8.1|
 |MineTweaker3	| 3.0.9C|
 |MineTweaker3 RecipeMaker	| 1.1.0.11|
@@ -90,10 +90,10 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |NotEnoughItems	| 1.0.4.107|
 |NotEnoughResources	| 0.1.0.106|
 |ObsidiPlates	| 3.0.0.18|
-|OpenComputers	| 1.5.16.32|
+|OpenComputers	| 1.5.17.33|
 |Opis	| 1.2.5|
 |Pam's Harvestcraft	| 1.7.10.j|
-|PneumaticCraft	| 1.11.1-121|
+|PneumaticCraft	| 1.11.3-123|
 |PvPToggle	| 1.0.33|
 |Railcraft	| 9.7.0.0|
 |Realistic Pain	| 2.0|
@@ -105,7 +105,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Smart Render	| 2.1|
 |StatusEffectHUD	| 1.27|
 |Steve's Carts 2	| 2.2.2.b18|
-|Storage Drawers	| 1.5.15|
+|Storage Drawers	| 1.6.0|
 |Storage Drawers: Forestry	| 1.0.2|
 |Streams	| 0.1.4|
 |Thaumcraft	| 4.2.3.5|
@@ -114,7 +114,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |TooMuchTime	| 2.4.0.B3|
 |Translocators	| 1.1.1.14|
 |Waila	| 1.5.10|
-|Waila Plugins	| 0.1.2-19|
+|Waila Plugins	| 0.1.2-21|
 |Waterproof	| 1.0.1|
 |Weather 2	| 2.3.9|
 |WR-CBE Universal	| 1.4.1.9|
@@ -129,8 +129,8 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |CodeChickenCore	| 1.0.6.43|
 |CoroUtil	| 1.1.1|
 |MalisisCore	| 0.12.7|
-|MobiusCore	| 0.12.8|
-|EnderCore	| 0.1.0.19|
+|MobiusCore	| 0.12.9|
+|EnderCore	| 0.1.0.23|
 |Farseek	| 1.0.8|
 |iCHunUtil	| 4.2.2|
 |IvToolKit	| 1.2|
@@ -138,4 +138,4 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |LLibrary	| 0.3.4|
 |PlayerAPI	| 1.4|
 |QmunityLib	| 0.1.114|
-|RadixCore	| 2.0.2|
+|RadixCore	| 2.0.3|
