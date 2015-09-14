@@ -1,9 +1,9 @@
-# Divide By Zero pack focused on tech and adventure
+# Divide by Zero pack focused on tech and adventure
 *Created by TnTBlockman*
 
-The modpack primary goal is a tech and adventure with added genetics, and a hint of magic. The main focus is to provide an alternative interesting way to play minecraft. Pack is designed to give you a steady progression along your path to more amazing tools and machines later on. Don’t expect to craft a bucket and iron tool on your first day, unless you’re lucky.
+Divide by Zero modpack primary goals is a tech and adventure with added genetics, and a hint of magic. The main focus is to provide an alternative interesting way to play Minecraft. Pack is designed to give you a steady progression along your path to more amazing tools and machines later on. Don’t expect to craft a bucket and iron tool on your first day, unless you’re lucky.
 
-This pack is for players who are looking for a different kind challenge. Progression starts with punching wood, collecting food, building a safe place, defending yourself against mobs (those ender creepers are terrifying xD). Keep at it, and you'll eventually get yourself into the more advanced infrastructure that awaits.
+This pack is for players who are looking for a different kind challenge. Progression starts the usual punching wood, collecting food, building a safe place. But soon you’ll discover things are not what they seem within these lands. Keep at it, and you'll eventually get yourself into the more advanced infrastructure that awaits.
 
 "The true sign of intelligence is not knowledge but imagination."
 Albert Einstein
@@ -24,7 +24,7 @@ Some hints as to what you’re about to get yourself into with this pack;
 
 We’re always open to ideas/suggestions from the public as to what to add or change to future versions of pack.  But keep these main pack objectives in mind when suggesting ideas on the forum;
 
-* RF(power) is to be kept to an absolute bare minimum.
+* RF(power) is to be kept to a minimum.
 * Power mostly focused with EU and pressure (PneumaticCraft).
 * Keep mod dimensions to a minimum.
 * Mod has to have unique features and not just repeat features that are already provided by other mods in the pack.        Example would be we don’t want to have 20+ other mods that add tubes or pipes for transportation in the pack. 
