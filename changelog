@@ -1,4 +1,27 @@
 #Pack Changelog
+##pack update 0.8.0##
+pack config changes....
+Magneticraft: copper_gen_active=false, salt_gen_active=false, sulfur_gen_active=false, tungsten_gen_active=false, uranium_gen_active=false, zinc_gen_active=false, Chunk Loading"=false
+Pam's HarvestCraft: sheepdropMutton=false
+
+mods updated....
+BiblioCraft: 1.11.0
+Forestry: 3.6.5
+MalisisDoors: 1.10
+PneumaticCraft: 1.11.4-124
+SpecialMobs: 3.2.0
+
+mods added...
+Just a Few Fish: 1.1
+Magneticraft: 0.3.4
+IC2 Backpack HUD: 3.0
+
+mods removed....
+ArmorStatusHUD
+StatusEffectHUD
+bspkrsCore
+
+===================================
 ##pack update 0.7.0##
 pack config changes....
 
