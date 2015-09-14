@@ -118,27 +118,27 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Waila	| 1.5.10| [Waila](http://minecraft.curseforge.com/mc-mods/73488-waila)	| ProfMobius|
 |Waila Plugins	| 0.1.2-21| [Waila Plugins](http://minecraft.curseforge.com/mc-mods/226119-waila-plugins)	| tterrag1098|
 |Waterproof	| 1.0.1| [Waterproof](http://minecraft.curseforge.com/mc-mods/231879-waterproof)	| Vazkii|
-|Weather 2	| 2.3.9|
-|WR-CBE Universal	| 1.4.1.9|
-|ZTones	| 2.2.1|
+|Weather 2	| 2.3.9| [Weather 2](http://coros.us/mods/weather2)	| Corosauce|
+|WR-CBE Universal	| 1.4.1.9| [WR-CBE Universal](http://minecraft.curseforge.com/mc-mods/229314-wr-cbe-universal)	| chicken bones|
+|ZTones	| 2.2.1| [ZTones](http://minecraft.curseforge.com/mc-mods/224369-ztones)	| riciJak|
 
 ##Mod API List
 | Mod | Version |
 | :------------ |:---------------|	
-|AnimationAPI	| 1.2.4 |
-|bdlib	| 1.9.1.97|
-|CodeChickenCore	| 1.0.6.43|
-|CoroUtil	| 1.1.1|
-|EnderCore	| 0.1.0.23|
-|Farseek	| 1.0.8|
-|iCHunUtil	| 4.2.2|
-|IvToolKit	| 1.2|
-|K4Lib	| 0.1.52|
-|LLibrary	| 0.3.4|
-|MalisisCore	| 0.12.7|
-|MobiusCore	| 0.12.9|
-|PlayerAPI	| 1.4|
-|QmunityLib	| 0.1.114|
-|RadixCore	| 2.0.3|
+|AnimationAPI	| 1.2.4 | [AnimationAPI](http://minecraft.curseforge.com/mc-mods/77191-animationapi)	| thehippomaster21 |
+|bdlib	| 1.9.1.97| [bdlib](http://minecraft.curseforge.com/mc-mods/70496-bdlib)	| bdew|
+|CodeChickenCore	| 1.0.6.43| [CodeChickenCore](http://minecraft.curseforge.com/mc-mods/222213-codechickencore)	| chicken bones|
+|CoroUtil	| 1.1.1| [CoroUtil](http://coros.us/mods/coroutil)	| Corosauce|
+|EnderCore	| 0.1.0.23| [EnderCore](http://www.curse.com/mc-mods/minecraft/231868-endercore)	| tterrag1098, CrazyPants|
+|Farseek	| 1.0.8| [Farseek](http://minecraft.curseforge.com/mc-mods/229708-farseek)	| delvr|
+|iCHunUtil	| 4.2.2| [iCHunUtil](http://minecraft.curseforge.com/mc-mods/229060-ichunutil)	| iChun|
+|IvToolKit	| 1.2| [IvToolKit](http://minecraft.curseforge.com/mc-mods/224535-ivtoolkit)	| Ivorius|
+|K4Lib	| 0.1.52| [K4Lib](http://minecraft.curseforge.com/mc-mods/224740-k4lib)	| k4Unl|
+|LLibrary	| 0.3.4| [LLibrary](http://minecraft.curseforge.com/mc-mods/230798-llibrary)	| iLexiconn|
+|MalisisCore	| 0.12.7| [MalisisCore](http://minecraft.curseforge.com/mc-mods/223896-malisiscore)	| Ordinastie|
+|MobiusCore	| 0.12.9| [MobiusCore](http://minecraft.curseforge.com/mc-mods/76734-mobiuscore)	| ProfMobius|
+|PlayerAPI	| 1.4| [PlayerAPI](http://minecraft.curseforge.com/mc-mods/228969-player-api)	| Divisor|
+|QmunityLib	| 0.1.114| [QmunityLib](http://minecraft.curseforge.com/mc-mods/224785-qmunitylib)	| Quetzi, amadornes, k4Unl, MineMaarten|
+|RadixCore	| 2.0.3| [RadixCore](http://minecraft.curseforge.com/mc-mods/77286-radixcore)	| WildBamaBoy|
 
 
