@@ -123,8 +123,8 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |ZTones	| 2.2.1| [ZTones](http://minecraft.curseforge.com/mc-mods/224369-ztones)	| riciJak|
 
 ##Mod API List
-| Mod | Version |
-| :------------ |:---------------|	
+| Mod | Version | Link | Mod authors |
+| :------------ |:---------------| :------------ |:---------------|	
 |AnimationAPI	| 1.2.4 | [AnimationAPI](http://minecraft.curseforge.com/mc-mods/77191-animationapi)	| thehippomaster21 |
 |bdlib	| 1.9.1.97| [bdlib](http://minecraft.curseforge.com/mc-mods/70496-bdlib)	| bdew|
 |CodeChickenCore	| 1.0.6.43| [CodeChickenCore](http://minecraft.curseforge.com/mc-mods/222213-codechickencore)	| chicken bones|
