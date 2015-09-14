@@ -29,7 +29,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 * Keep mod dimensions to a minimum.
 * Mod has to have unique features and not just repeat features that are already provided by other mods in the pack.        Example would be we don’t want to have 20+ other mods that add tubes or pipes for transportation in the pack. 
 
-##Mod List
+##Current Modpack version 0.8.0 mod list
 | Mod | Version |
 | :------------ |:---------------|
 |AdvancedSolarPanel	| 3.5.1|
@@ -38,10 +38,9 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Antique Atlas |	4.2.6|
 |Applied Energistics 2 |	rv2-stable-10|
 |AquaTweaks |	1.0|
-|ArmorStatusHUD |	1.28|
 |Baubles |	1.0.1.10|
 |Better Foliage |	1.0.13|
-|Bibliocraft |	1.10.6|
+|Bibliocraft |	1.11.0|
 |Bibliocraft: BiblioWoods Forestry Edition |	1.7|
 |Binnie's Mods |	2.0-pre14|
 |Blue Power |	0.2.962|
@@ -58,7 +57,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Et Futurum |	1.4.2|
 |Falling Meteors Mod |	2.14.3|
 |FloodLights |	0.6.8-96|
-|Forestry	| 3.6.3|
+|Forestry	| 3.6.5|
 |Framez	| 0.2-32 Hotfix|
 |Gendustry	| 1.5.12.107|
 |Gravestone	| 2.12.4|
@@ -67,6 +66,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |GregTech	5u | 5.08.29|
 |Hardcore Ender Expansion	| 1.8.3|
 |Headcrumbs	| 1.6.0|
+|IC2 Backpack HUD	| 3.0|
 |IC2 Nuclear Control	| 2.2.5a|
 |In-Game Wiki Mod	| 1.1.9-30|
 |IndustrialCraft 2 Experimental	| 2.2.760|
@@ -74,8 +74,10 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Iron Chests	| 6.0.60.741|
 |Jabba	| 1.2.1a|
 |JurassicCraft	| 1.4.5|
+|Just a Few Fish	| 1.1|
 |Magic Bees	| 2.3.5|
-|Malisis' Doors	| 1.9.5|
+|Magneticraft	| 0.3.4|
+|Malisis' Doors	| 1.10|
 |Mine & Blade Battlegear 2	| 1.0.8.1|
 |MineTweaker3	| 3.0.9C|
 |MineTweaker3 RecipeMaker	| 1.1.0.11|
@@ -93,7 +95,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |OpenComputers	| 1.5.17.33|
 |Opis	| 1.2.5|
 |Pam's Harvestcraft	| 1.7.10.j|
-|PneumaticCraft	| 1.11.3-123|
+|PneumaticCraft	| 1.11.4-124|
 |PvPToggle	| 1.0.33|
 |Railcraft	| 9.7.0.0|
 |Realistic Pain	| 2.0|
@@ -103,7 +105,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Roguelike Dungeons	| 1.3.6.3|
 |Smart Moving	| 15.6|
 |Smart Render	| 2.1|
-|StatusEffectHUD	| 1.27|
+|Special Mobs	| 3.2.0|
 |Steve's Carts 2	| 2.2.2.b18|
 |Storage Drawers	| 1.6.0|
 |Storage Drawers: Forestry	| 1.0.2|
@@ -125,17 +127,18 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 | :------------ |:---------------|	
 |AnimationAPI	| 1.2.4 |
 |bdlib	| 1.9.1.97|
-|bspkrsCore	| 6.16|
 |CodeChickenCore	| 1.0.6.43|
 |CoroUtil	| 1.1.1|
-|MalisisCore	| 0.12.7|
-|MobiusCore	| 0.12.9|
 |EnderCore	| 0.1.0.23|
 |Farseek	| 1.0.8|
 |iCHunUtil	| 4.2.2|
 |IvToolKit	| 1.2|
 |K4Lib	| 0.1.52|
 |LLibrary	| 0.3.4|
+|MalisisCore	| 0.12.7|
+|MobiusCore	| 0.12.9|
 |PlayerAPI	| 1.4|
 |QmunityLib	| 0.1.114|
 |RadixCore	| 2.0.3|
+
+
