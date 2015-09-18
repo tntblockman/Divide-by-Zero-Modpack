@@ -1,4 +1,44 @@
 #Pack Changelog
+##pack update 0.9.0##
+pack config changes....
+Magneticraft: tungsten_gen_active=true
+Deadly world: reduce silverfish spawn (silverfish_count=2)
+MineTweaker: script added Galacticraft-alt.zs
+Galacticraft: disabled oil gen("Oil Generation Factor"=0), disabled overworld ore gen,  added External Sealable IDs (stained glass panes, Gregtech blockcasings, blockconcretes, blockgranites, blockmachines, blockores, and railcraft glass.)
+Bluepower: blocked more smelting recipes from alloy furnace(Magneticraft, opencomputers,  Galacticraft)
+
+mods updated....
+AE2 Stuff: 0.5.0.56
+BdLib: 1.9.2.104
+Better Foliage: 1.0.14
+BiblioCraft: 1.11.1
+Chisel 2: 2.5.1.44
+Custom Main Menu: 1.8
+EnderCore: 0.1.0.24
+Farseek: 1.0.9
+FloodLights: 0.6.11-103
+Forestry: 3.6.6
+Gendustry: 1.6.0
+Magneticraft: 0.5.0
+PneumaticCraft: 1.11.7-127
+StorageDrawers: 1.6.1
+StorageDrawers Forestry Pack: 1.0.3
+Streams: 0.1.5
+Industrialcraft: 2.2.774
+IGW Mod: 1.1.9-32
+
+mods added...
+GalacticGreg: 0.7
+Galacticraft-Planets: 3.0.12.357
+GalacticraftCore: 3.0.12.357
+MicdoodleCore: 3.0.12.357
+GalacticGreg: 0.7
+
+mods removed....
+AquaTweaks
+Mutant Creatures Mod removed due to been not allowed in any public pack
+
+===================================
 ##pack update 0.8.0##
 pack config changes....
 Magneticraft: copper_gen_active=false, salt_gen_active=false, sulfur_gen_active=false, tungsten_gen_active=false, uranium_gen_active=false, zinc_gen_active=false, Chunk Loading"=false
