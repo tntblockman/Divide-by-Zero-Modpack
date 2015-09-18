@@ -26,7 +26,6 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 
 * RF(power) is to be kept to a minimum.
 * Power mostly focused with EU and pressure (PneumaticCraft).
-* Keep mod dimensions to a minimum.
 * Mod has to have unique features and not just repeat features that are already provided by other mods in the pack.        Example would be we don’t want to have 20+ other mods that add tubes or pipes for transportation in the pack. 
 
 ##Current Modpack version 0.8.0 mod list
