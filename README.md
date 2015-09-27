@@ -28,17 +28,17 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 * Power mostly focused with EU and pressure (PneumaticCraft).
 * Mod has to have unique features and not just repeat features that are already provided by other mods in the pack.        Example would be we don’t want to have 20+ other mods that add tubes or pipes for transportation in the pack. 
 
-##Current Modpack version 0.9.0 mod list
+##Current Modpack version 0.9.1 mod list
 | Mod | Version | Link | Mod authors |
 | :------------ |:---------------| :------------ |:---------------|
 |AdvancedSolarPanel	| 3.5.1| [AdvancedSolarPanel](http://forum.industrial-craft.net/index.php?page=Thread&postID=27306)| SeNtiMeL|
 |AE2 Stuff |	0.5.0.56| [AE2 Stuff](http://minecraft.curseforge.com/mc-mods/225194-ae2-stuff) |	bdew|
-|AgriCraft |	1.3.1| [AgriCraft](http://minecraft.curseforge.com/mc-mods/225635) |	InfinityRaider|
+|AgriCraft |	1.4.0-beta-3-1.7.10| [AgriCraft](http://minecraft.curseforge.com/mc-mods/225635) |	InfinityRaider|
 |Antique Atlas |	4.2.6| [Antique Atlas](http://minecraft.curseforge.com/mc-mods/227795) |	Hunternif |
 |Applied Energistics 2 |	rv2-stable-10| [Applied Energistics 2](http://minecraft.curseforge.com/mc-mods/223794) |	AlgorithmX2, akarso, Cisien, fireball1725, thatsIch|
 |Baubles |	1.0.1.10| [Baubles](http://www.curse.com/mc-mods/minecraft/227083-baubles) |	azanor|
 |Better Foliage |	1.0.14| [Better Foliage](http://minecraft.curseforge.com/mc-mods/228529) |	octarine noise|
-|Bibliocraft |	1.11.1| [Bibliocraft](http://minecraft.curseforge.com/mc-mods/228027) |	JDSinclair, Nuchaz|
+|Bibliocraft |	1.11.2| [Bibliocraft](http://minecraft.curseforge.com/mc-mods/228027) |	JDSinclair, Nuchaz|
 |Bibliocraft: BiblioWoods Forestry Edition |	1.7| [Bibliocraft: BiblioWoods Forestry Edition](http://minecraft.curseforge.com/mc-mods/228363) |	JDSinclair, Nuchaz|
 |Binnie's Mods |	2.0-pre14| [Binnie's Mods](http://minecraft.curseforge.com/mc-mods/223525) |	Binnie567|
 |Blue Power |	0.2.962| [Blue Power](http://minecraft.curseforge.com/mc-mods/223099-blue-power) |	Quetzi, amadornes, k4Unl, MineMaarten, RavenWhitefang|
@@ -52,10 +52,10 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |DecoCraft2 |	2.1.1| [DecoCraft2](http://minecraft.curseforge.com/mc-mods/79616-decocraft2) |	RazzleberryFox, Davexx100, lukitiki, ProMobius, Slady020482, taelnia|
 |Doors by iChun |	4.0.1| [Doors by iChun](http://minecraft.curseforge.com/mc-mods/229070-doors-by-ichun) |	iChun|
 |Enhanced Portals 3 |	3.0.12| [Enhanced Portals 3](http://minecraft.curseforge.com/mc-mods/225921-enhanced-portals-3) |	Alz454|
-|Et Futurum |	1.4.2| [Et Futurum](http://minecraft.curseforge.com/mc-mods/230114-et-futurum) |	ganymedes01|
+|Et Futurum |	1.4.3| [Et Futurum](http://minecraft.curseforge.com/mc-mods/230114-et-futurum) |	ganymedes01|
 |Falling Meteors Mod |	2.14.3| [Falling Meteors Mod](http://minecraft.curseforge.com/mc-mods/66776-falling-meteors-mod) |	AlexDGr8r|
 |FloodLights |	0.6.11-103| [FloodLights](http://minecraft.curseforge.com/mc-mods/224728-floodlights) |	Keridos|
-|Forestry	| 3.6.6| [Forestry](http://minecraft.curseforge.com/mc-mods/59751-forestry)	| SirSengir, CovertJaguar, mezz, MysteriousAges|
+|Forestry	| 3.6.9| [Forestry](http://minecraft.curseforge.com/mc-mods/59751-forestry)	| SirSengir, CovertJaguar, mezz, MysteriousAges|
 |Framez	| 0.2-32 Hotfix| [Framez](http://minecraft.curseforge.com/mc-mods/76118-framez)	| amadornes|
 |GalacticGreg	| 0.7| [GalacticGreg](http://forum.industrial-craft.net/index.php?page=Thread&threadID=11039)	| Blood Asp|
 |GalacticraftCore	| 3.0.12.357| [GalacticraftCore](http://micdoodle8.com/mods/galacticraft)	| Radfast, Micdoodle8, fishtaco567, SpaceViking, Jackson Cordes, Ezer'Arch|
@@ -76,7 +76,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Jabba	| 1.2.1a| [Jabba](http://minecraft.curseforge.com/mc-mods/73510-jabba)	| ProfMobius, taelnia|
 |JurassicCraft	| 1.4.5| [JurassicCraft](http://minecraft.curseforge.com/mc-mods/226719-jurassicraft-2-0-pre-release)	| Kashmoney360, JTGhawk137, LieutenantGhost, TheDurpiDaedric|
 |Just a Few Fish	| 1.1| [Just a Few Fish](http://minecraft.curseforge.com/mc-mods/235261-just-a-few-fish)	| Tmtravlr|
-|Magic Bees	| 2.3.5| [Magic Bees](http://minecraft.curseforge.com/mc-mods/65764-magic-bees)	| MsyteriousAges, Arkandos, mezz|
+|Magic Bees	| 2.3.6| [Magic Bees](http://minecraft.curseforge.com/mc-mods/65764-magic-bees)	| MsyteriousAges, Arkandos, mezz|
 |Magneticraft	| 0.5.0| [Magneticraft](http://minecraft.curseforge.com/mc-mods/224808-magneticraft)	| cout970, Cypher121, MechWarrior99|
 |Malisis' Doors	| 1.10| [Malisis' Doors](http://minecraft.curseforge.com/mc-mods/223891-malisisdoors)	| Ordinastie|
 |MicdoodleCore	| 3.0.12.357| [MicdoodleCore](http://micdoodle8.com/mods/galacticraft)	| Radfast, Micdoodle8, fishtaco567, SpaceViking, Jackson Cordes, Ezer'Arch|
@@ -93,10 +93,10 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |NotEnoughItems	| 1.0.4.107| [NotEnoughItems](http://minecraft.curseforge.com/mc-mods/222211-notenoughitems)	| chicken bones|
 |NotEnoughResources	| 0.1.0.106| [NotEnoughResources](http://minecraft.curseforge.com/mc-mods/225815-notenoughresources)	| Way2muchnoise, hilburn|
 |ObsidiPlates	| 3.0.0.18| [ObsidiPlates](http://minecraft.curseforge.com/mc-mods/59769-obsidiplates)	| Myrathi|
-|OpenComputers	| 1.5.17.33| [OpenComputers](http://minecraft.curseforge.com/mc-mods/223008-opencomputers)	| Sangar, Kethtar|
+|OpenComputers	| 1.5.18.36| [OpenComputers](http://minecraft.curseforge.com/mc-mods/223008-opencomputers)	| Sangar, Kethtar|
 |Opis	| 1.2.5| [Opis](http://minecraft.curseforge.com/mc-mods/73832-opis)	| ProfMobius|
 |Pam's Harvestcraft	| 1.7.10.j| [Pam's Harvestcraft](http://minecraft.curseforge.com/mc-mods/221857-pams-harvestcraft)	| MatrexsVigil|
-|PneumaticCraft	| 1.11.7-127| [PneumaticCraft](http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft)	| MineMaarten|
+|PneumaticCraft	| 1.11.10-133| [PneumaticCraft](http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft)	| MineMaarten|
 |PvPToggle	| 1.0.33| [PvPToggle](http://minecraft.curseforge.com/mc-mods/223394-pvptoggle)	| k4Unl|
 |Railcraft	| 9.7.0.0| [Railcraft](http://minecraft.curseforge.com/mc-mods/51195-railcraft)	| CovertJaguar|
 |Realistic Pain	| 2.0| [Realistic Pain](http://minecraft.curseforge.com/mc-mods/75541-realistic-pain)	| pauljoda|
@@ -108,7 +108,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Smart Render	| 2.1| [Smart Render](http://minecraft.curseforge.com/mc-mods/229857-smart-render)	| Divisor82|
 |Special Mobs	| 3.2.0| [Special Mobs](http://minecraft.curseforge.com/mc-mods/59968-special-mobs)	| FatherToast|
 |Steve's Carts 2	| 2.2.2.b18| [Steve's Carts 2](http://minecraft.curseforge.com/mc-mods/228625-steves-carts-2)	| Vswe|
-|Storage Drawers	| 1.6.1| [Storage Drawers](http://minecraft.curseforge.com/mc-mods/223852-storage-drawers)	| jaquadro|
+|Storage Drawers	| 1.6.2| [Storage Drawers](http://minecraft.curseforge.com/mc-mods/223852-storage-drawers)	| jaquadro|
 |Storage Drawers: Forestry	| 1.0.3| [Storage Drawers: Forestry](http://minecraft.curseforge.com/mc-mods/231147-storage-drawers-forestry-pack)	| jaquadro|
 |Streams	| 0.1.5| [Streams](http://minecraft.curseforge.com/mc-mods/229769-streams)	| delvr|
 |Thaumcraft	| 4.2.3.5| [Thaumcraft](http://minecraft.curseforge.com/mc-mods/223628-thaumcraft)	| azanor|
@@ -126,7 +126,6 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 ##Mod API List
 | Mod | Version | Link | Mod authors |
 | :------------ |:---------------| :------------ |:---------------|	
-|AnimationAPI	| 1.2.4 | [AnimationAPI](http://minecraft.curseforge.com/mc-mods/77191-animationapi)	| thehippomaster21 |
 |bdlib	| 1.9.2.104| [bdlib](http://minecraft.curseforge.com/mc-mods/70496-bdlib)	| bdew|
 |CodeChickenCore	| 1.0.6.43| [CodeChickenCore](http://minecraft.curseforge.com/mc-mods/222213-codechickencore)	| chicken bones|
 |CoroUtil	| 1.1.1| [CoroUtil](http://coros.us/mods/coroutil)	| Corosauce|
