@@ -128,7 +128,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 | :------------ |:---------------| :------------ |:---------------|	
 |bdlib	| 1.9.2.104| [bdlib](http://minecraft.curseforge.com/mc-mods/70496-bdlib)	| bdew|
 |CodeChickenCore	| 1.0.6.43| [CodeChickenCore](http://minecraft.curseforge.com/mc-mods/222213-codechickencore)	| chicken bones|
-|CoFHCore	| 3.0.3-303| [CoFHCore](http://www.curse.com/mc-mods/minecraft/cofhcore)	| Corosauce|
+|CoFHCore	| 3.0.3-303| [CoFHCore](http://www.curse.com/mc-mods/minecraft/cofhcore)	| KingLemming, skyboy026, ZeldoKavira|
 |CoroUtil	| 1.1.1| [CoroUtil](http://coros.us/mods/coroutil)	| Corosauce|
 |EnderCore	| 0.1.0.24| [EnderCore](http://www.curse.com/mc-mods/minecraft/231868-endercore)	| tterrag1098, CrazyPants|
 |Farseek	| 1.0.9| [Farseek](http://minecraft.curseforge.com/mc-mods/229708-farseek)	| delvr|
