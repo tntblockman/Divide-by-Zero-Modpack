@@ -1,4 +1,26 @@
 #Pack Changelog
+##pack update 0.9.1##
+pack config changes....
+Bluepower: blocked  smelting recipe from alloy furnace(PneumaticCraft:compressedIronGear)
+DeadlyWorld: Brutal spawners Regenerates health.  (regeneration=-1)
+
+mods updated....
+AgriCraft: 1.4.0-beta-3-1.7.10
+BiblioCraft: 1.11.2
+Et Futurum: 1.4.3
+Forestry: 3.6.9
+Magic Bees: 2.3.6
+Open Computers: 1.5.18.36
+PneumaticCraft: 1.11.10-133
+Storage Drawers: 1.6.2
+
+mods added...
+CoFHCore: 3.0.3-303(added due to crash with MagnetiCraft.  Will remove once Magneticraft updates to fix crash)
+
+mods removed....
+AnimationAPI
+
+===================================
 ##pack update 0.9.0##
 pack config changes....
 Magneticraft: tungsten_gen_active=true
