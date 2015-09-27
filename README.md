@@ -22,7 +22,7 @@ Some hints as to what you’re about to get yourself into with this pack;
 * Dungeons are not what they seem
 * Day and night time cycles are doubled
 
-We’re always open to ideas/suggestions from the public as to what to add or change to future versions of pack.  But keep these main pack objectives in mind when suggesting ideas on the forum;
+We’re always open to ideas/suggestions from the public as to what to add or change to future versions of pack.  But keep these main pack objectives in mind when suggesting ideas on the forum(soon) or [issue page](https://github.com/tntblockman/TnTpack-Modpack/issues);
 
 * RF(power) is to be kept to a minimum.
 * Power mostly focused with EU and pressure (PneumaticCraft).
