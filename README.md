@@ -88,7 +88,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Mob Dismemberment	| 4.0.0| [Mob Dismemberment](http://minecraft.curseforge.com/mc-mods/229067-mob-dismemberment)	| iChun|
 |Morpheus	| 1.6.10| [Morpheus](http://minecraft.curseforge.com/mc-mods/69118-morpheus)	| Quetzi|
 |Mouse Tweaks	| 2.4.4| [Mouse Tweaks](http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks)	| YalTeR97|
-|NEI Addons	| 1.12.9.36| [NEI Addons](http://minecraft.curseforge.com/mc-mods/63352-nei-addons)	| bdew|
+|NEI Addons	| 1.12.11.36| [NEI Addons](http://minecraft.curseforge.com/mc-mods/63352-nei-addons)	| bdew|
 |NEI Integration	| 1.0.12| [NEI Integration](http://minecraft.curseforge.com/mc-mods/225251-nei-integration)	| tonius111|
 |NotEnoughItems	| 1.0.4.107| [NotEnoughItems](http://minecraft.curseforge.com/mc-mods/222211-notenoughitems)	| chicken bones|
 |NotEnoughResources	| 0.1.0.106| [NotEnoughResources](http://minecraft.curseforge.com/mc-mods/225815-notenoughresources)	| Way2muchnoise, hilburn|
