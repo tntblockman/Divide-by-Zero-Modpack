@@ -28,7 +28,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 * Power mostly focused with EU and pressure (PneumaticCraft).
 * Mod has to have unique features and not just repeat features that are already provided by other mods in the pack.        Example would be we don’t want to have 20+ other mods that add tubes or pipes for transportation in the pack. 
 
-##Current Modpack version 0.9.1 mod list
+##Current Modpack version 0.9.2 mod list
 | Mod | Version | Link | Mod authors |
 | :------------ |:---------------| :------------ |:---------------|
 |AdvancedSolarPanel	| 3.5.1| [AdvancedSolarPanel](http://forum.industrial-craft.net/index.php?page=Thread&postID=27306)| SeNtiMeL|
