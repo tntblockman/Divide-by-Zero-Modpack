@@ -1,4 +1,45 @@
 #Pack Changelog
+##pack update 0.9.2##
+pack config changes....
+Bluepower: blocked  smelting recipes from alloy furnace(Magneticraft, Floodlights,Agricraft)
+GregTech: enable ic2 cables(DisableIC2Cables=false)
+Deadly World: regen config(potion_trap=0, silverfish_count=5, regeneration=-1, place_attempts=4.0)
+reduce spanwer rate (boss=0.1, brutal_spawner=0.2, chest=0.2, fire_trap=0.5,  mine=0.1, potion_trap=0, silverfish_nest=0.3, spawner=0.1, spawner_trap=0.3, swarm_spawner=0.5, tower=0.5)
+Framez 2: regen config
+Magneticraft: disabled thorium and Tungsten ore(thorium_gen_active=false, tungsten_gen_active=false)
+Realistic World Generation: disabled mod in favor of Realistic Terrain Generation very Alpha
+
+mods updated....
+AgriCraft: 1.4.1-1.7.10
+BdLib: 1.9.3.107
+CodeChickenCore: 1.0.7.47
+EnderCore: 0.1.0.26
+Et Futurum: 1.4.4
+Farseek: 1.0.10
+FloodLights: 1.0.3-116
+Framez 2: 0.1.0
+GregTech 5u: 5.08.30
+Hardcore Ender Expansion: 1.8.4
+Headcrumbs: 1.6.2
+K4lib: 0.1.55
+LLibrary: 0.4.2
+Magneticraft: 0.5.1
+NEI Addons: 1.12.14.40
+NEIIntegration: 1.0.13
+NotEnoughItems: 1.0.5.118
+OpenComputers: 1.5.19.37
+PneumaticCraft: 1.11.16-138
+Streams: 0.1.6
+Translocator: 1.1.2.15
+
+mods added...
+Trajectory: 0.1.1
+Realistic Terrain Generation: 0.0.11
+
+mods removed....
+CoFHCore no longer needed
+
+===================================
 ##pack update 0.9.1##
 pack config changes....
 Bluepower: blocked  smelting recipe from alloy furnace(PneumaticCraft:compressedIronGear)
