@@ -100,7 +100,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |PvPToggle	| 1.0.33| [PvPToggle](http://minecraft.curseforge.com/mc-mods/223394-pvptoggle)	| k4Unl|
 |Railcraft	| 9.7.0.0| [Railcraft](http://minecraft.curseforge.com/mc-mods/51195-railcraft)	| CovertJaguar|
 |Realistic Pain	| 2.0| [Realistic Pain](http://minecraft.curseforge.com/mc-mods/75541-realistic-pain)	| pauljoda|
-|Realistic Terrain Generation	| 0.0.11| [Realistic Terrain Generation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2524489-wip-realistic-terrain-generation-0-0-12)	| Team RTG|
+|Realistic Terrain Generation	| 0.0.12| [Realistic Terrain Generation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2524489-wip-realistic-terrain-generation-0-0-12)	| Team RTG|
 |Realistic World Gen(disabled)	| 1.3.2| [Realistic World Gen](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-teds-world-gen-mods-realistic-world-gen-alpha-1-3)	| ted80|
 |Recurrent Complex	| 0.9.6.3| [Recurrent Complex](http://minecraft.curseforge.com/mc-mods/223150-recurrent-complex)	| Ivorius|
 |Resource Loader	| 1.2| [Resource Loader](http://minecraft.curseforge.com/mc-mods/226447-resource-loader)	| Lumien231|
