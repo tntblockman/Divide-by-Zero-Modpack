@@ -1,13 +1,13 @@
 #Pack Changelog
 ##pack update 0.9.3##
 pack config changes....
-mineTweaker: added Alt Carbide recipe(6 coal dust, 3 iron dusts = 4 Carbide ingots) Removed 2x iron ingot crafting into 4x iron rod
-vanilla fishing rod damage value changed (Used For Crafting Only) 
+mineTweaker: Magneticraft added Alt Carbide recipe(6 coal dust, 3 iron dusts = 4 Carbide ingots), Heat Cable recipe replaced salt block with copper coil, Removed 2x iron ingot crafting into 4x iron rod,
+vanilla fishing rod damage value changed (Used For Crafting Only).  
 TwilightForest: DisableUncrafting=true
 Just a Few Fish: Spawn Frequency=50, disable fish spawning in Twilight Forest "Dimension Blacklist"=-1,1,7
 Thaumcraft: taint_biome_weight=1, biome_taint_spread=0, spawn_fire_bats=false
 Galacticraft: update disabled "Disable Update Check"=true
-Prodject Red: "Version Checking"=false, "Simple Framed Wire Recipe"=true, ore gen set to false, armour. disabled jetpack
+Prodject Red: "Version Checking"=false, "Simple Framed Wire Recipe"=true, ore gen set to false, disabled armour and jetpack
 Dynamic Surroundings: Enable: Online Version Check"=false, frog croaks disabled "Enabled=false"
 magic bees disabled update checker
 
