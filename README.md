@@ -32,6 +32,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 | Mod | Version | Link | Mod authors |
 | :------------ |:---------------| :------------ |:---------------|
 |AdvancedSolarPanel	| 3.5.1| [AdvancedSolarPanel](http://forum.industrial-craft.net/index.php?page=Thread&postID=27306)| SeNtiMeL|
+|Adventure Backpack	| 0.8c| [Adventure Backpack](http://minecraft.curseforge.com/projects/adventure-backpack)| Darkona |
 |AE2 Stuff |	0.5.0.56| [AE2 Stuff](http://minecraft.curseforge.com/mc-mods/225194-ae2-stuff) |	bdew|
 |AgriCraft |	1.4.6-hotfix| [AgriCraft](http://minecraft.curseforge.com/mc-mods/225635) |	InfinityRaider|
 |Antique Atlas |	4.2.10| [Antique Atlas](http://minecraft.curseforge.com/mc-mods/227795) |	Hunternif |
@@ -45,15 +46,20 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Chisel |	2.9.4.10| [Chisel](http://minecraft.curseforge.com/projects/chisel) |	tterrag, Drullkus, minecreatr|
 |ColorChat |	0.1.37| [ColorChat](http://minecraft.curseforge.com/mc-mods/221276-colorchat) |	k4Unl|
 |Compass Coordinates |	0.1.8| [Compass Coordinates](http://minecraft.curseforge.com/mc-mods/231573-compass-coordinates) |	Quetzi|
+|Crafting Tweaks |	1.0.62| [Crafting Tweaks](http://minecraft.curseforge.com/projects/crafting-tweaks) |	Blay09|
 |Custom Main Menu |	1.9.2| [Custom Main Menu](http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu) |	lumien231|
 |DecoCraft2 |	2.2.1| [DecoCraft2](http://minecraft.curseforge.com/mc-mods/79616-decocraft2) |	RazzleberryFox, Davexx100, lukitiki, ProMobius, Slady020482, taelnia|
 |Doors by iChun |	4.0.1| [Doors by iChun](http://minecraft.curseforge.com/mc-mods/229070-doors-by-ichun) |	iChun|
+|Dynamic Surroundings |	1.0.3.2| [Dynamic Surroundings](http://minecraft.curseforge.com/projects/dynamic-surroundings) | OreCruncher, Wirsbo, MrRude |
 |Enhanced Portals 3 |	3.0.12| [Enhanced Portals 3](http://minecraft.curseforge.com/mc-mods/225921-enhanced-portals-3) |	Alz454|
 |Et Futurum |	1.5.4| [Et Futurum](http://minecraft.curseforge.com/mc-mods/230114-et-futurum) |	ganymedes01|
 |Falling Meteors Mod |	2.14.3| [Falling Meteors Mod](http://minecraft.curseforge.com/mc-mods/66776-falling-meteors-mod) |	AlexDGr8r|
 |FloodLights |	1.0.3-116| [FloodLights](http://minecraft.curseforge.com/mc-mods/224728-floodlights) |	Keridos|
 |Forestry	| 3.6.12| [Forestry](http://minecraft.curseforge.com/mc-mods/59751-forestry)	| SirSengir, CovertJaguar, mezz, MysteriousAges|
 |Framez 2	| 0.1.1-hotfix| [Framez](http://minecraft.curseforge.com/mc-mods/76118-framez)	| amadornes|
+|FTB Tweaks	| 1.0.1| [FTBTweaks](http://minecraft.curseforge.com/projects/ftb-tweaks)	| jaredlll08|
+|FTB Utilities	| 1.0.17| [FTB Utilities](http://minecraft.curseforge.com/projects/ftb-utilities)	| LatvianModder|
+|FTBLib	| 1.0.17| [FTB Lib](http://minecraft.curseforge.com/projects/ftblib)	| jaredlll08, LatvianModder|
 |GalacticGreg	| 0.7| [GalacticGreg](http://forum.industrial-craft.net/index.php?page=Thread&threadID=11039)	| Blood Asp|
 |GalacticraftCore	| 3.0.12.406| [GalacticraftCore](http://micdoodle8.com/mods/galacticraft)	| Radfast, Micdoodle8, fishtaco567, SpaceViking, Jackson Cordes, Ezer'Arch|
 |Galacticraft-Planets	| 3.0.12.406| [Galacticraft-Planets](http://micdoodle8.com/mods/galacticraft)	| Radfast, Micdoodle8, fishtaco567, SpaceViking, Jackson Cordes, Ezer'Arch|
@@ -62,6 +68,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |GraviSuite	| 2.0.3| [GraviSuite](http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915)	| SeNtiMel|
 |Gravity Gun	| 4.0.0| [Gravity Gun](http://minecraft.curseforge.com/mc-mods/229072-gravity-gun)	| iChun|
 |GregTech	5u | 5.08.33| [GregTech	5u](http://forum.industrial-craft.net/index.php?page=Thread&threadID=11488) | Blood Asp, GregoriusT|
+|GTTweaker | 1.0.9| [GTTweaker](http://forum.industrial-craft.net/index.php?page=Thread&threadID=11353&s=82e8e7816674863a89648cf9a85aba5f53f2d31c) | DreamMasterXXL|
 |Hardcore Ender Expansion	| 1.8.5| [Hardcore Ender Expansion](http://minecraft.curseforge.com/mc-mods/228015-hardcore-ender-expansion)	| chylex|
 |Headcrumbs	| 1.7.3| [Headcrumbs](http://minecraft.curseforge.com/mc-mods/222838-headcrumbs)	| ganymedes01|
 |IC2 Backpack HUD	| 3.0| [IC2 Backpack HUD](http://forum.industrial-craft.net/index.php?page=Thread&threadID=8495)	| Mineshopper|
@@ -91,6 +98,7 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |OpenComputers	| 1.5.22.43| [OpenComputers](http://minecraft.curseforge.com/mc-mods/223008-opencomputers)	| Sangar, Kethtar|
 |Pam's Harvestcraft	| 1.7.10.Lb| [Pam's Harvestcraft](http://minecraft.curseforge.com/mc-mods/221857-pams-harvestcraft)	| MatrexsVigil|
 |PneumaticCraft	| 1.12.5-148| [PneumaticCraft](http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft)	| MineMaarten|
+|Project Red	| 4.7.0pre10.93| [Project Red](http://www.minecraftforum.net/topic/1885652-164forge-multipart-projectred-v42218-12312013/)	| MrTJP|
 |PvPToggle	| 1.0.33| [PvPToggle](http://minecraft.curseforge.com/mc-mods/223394-pvptoggle)	| k4Unl|
 |Railcraft	| 9.8.0.0| [Railcraft](http://minecraft.curseforge.com/mc-mods/51195-railcraft)	| CovertJaguar|
 |Realistic Pain	| 2.0| [Realistic Pain](http://minecraft.curseforge.com/mc-mods/75541-realistic-pain)	| pauljoda|
@@ -104,8 +112,11 @@ We’re always open to ideas/suggestions from the public as to what to add or ch
 |Storage Drawers: Forestry	| 1.1.1| [Storage Drawers: Forestry](http://minecraft.curseforge.com/mc-mods/231147-storage-drawers-forestry-pack)	| jaquadro|
 |Streams	| 0.1.6| [Streams](http://minecraft.curseforge.com/mc-mods/229769-streams)	| delvr|
 |Thaumcraft	| 4.2.3.5| [Thaumcraft](http://minecraft.curseforge.com/mc-mods/223628-thaumcraft)	| azanor|
+|Thaumcraft Inventory Scanning	| 1.0.10| [Thaumcraft Inventory Scanning](http://minecraft.curseforge.com/projects/thaumcraft-inventory-scanning)	| BlayTheNinth|
 |Thaumcraft Mob Aspects	| 2A| [Thaumcraft Mob Aspects](http://minecraft.curseforge.com/mc-mods/221389-thaumcraft-mob-aspects)	| Parker8283, iguana man|
+|Thaumcraft Node Tracker	| 1.1.2| [Thaumcraft Node Tracker](http://www.curse.com/mc-mods/minecraft/227328-thaumcraft-node-tracker)	| Dyonovan|
 |Thaumic Tinkerer	| 164| [Thaumic Tinkerer](http://minecraft.curseforge.com/mc-mods/75598-thaumic-tinkerer)	| nekosune, pixlepix|
+|Twilight Forest	| 2.3.7| [Twilight Forest](http://minecraft.curseforge.com/mc-mods/222463-toomuchtime)	| Benimatic|
 |TooMuchTime	| 2.4.0.B3| [TooMuchTime](http://minecraft.curseforge.com/mc-mods/222463-toomuchtime)	| dmillerw|
 |Translocators	| 1.1.2.15| [Translocators](http://minecraft.curseforge.com/mc-mods/229318-translocators)	| chicken bones|
 |Waila	| 1.5.10| [Waila](http://minecraft.curseforge.com/mc-mods/73488-waila)	| ProfMobius|
