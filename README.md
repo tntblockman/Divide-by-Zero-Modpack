@@ -1,32 +1,42 @@
 # Divide by Zero pack focused on tech and adventure
 *Created by TnTBlockman*
 
-Divide by Zero modpack primary goals is a tech and adventure with added genetics, and a hint of magic. The main focus is to provide an alternative interesting way to play Minecraft. Pack is designed to give you a steady progression along your path to more amazing tools and machines later on. Don’t expect to craft a bucket and iron tool on your first day, unless you’re lucky.
+Divide by Zero modpack primary goals is a tech and adventure with added genetics, and a hint of magic. The main focus is to provide an alternative interesting way to play Minecraft. Pack is designed to give you a steady yet challenging progression along your path to more amazing tools and machines later on. Don’t expect to craft a jetpack on your first day, unless you’re lucky.
 
-This pack is for players who are looking for a different kind challenge. Progression starts the usual punching wood, collecting food, building a safe place. But soon you’ll discover things are not what they seem within these lands. Keep at it, and you'll eventually get yourself into the more advanced infrastructure that awaits.
+You'll quickly discover these lands are not what they seem, traversing mountains, valleys, streams, and caves.  Discovering insights of structures and creatures unknown, all in the name of "Science".  But have no fear, although pack provides challenging gameplay, technology is the key to success and beyond, onto "road to riches"...
 
-"The true sign of intelligence is not knowledge but imagination."
-Albert Einstein
+-------------------------
 
-Please refer to our [GitHub](https://github.com/tntblockman/TnTpack-Modpack) page for full mod list.
+Please refer to our GitHub page for full mod list [here](https://github.com/tntblockman/TnTpack-Modpack).
 
-Modpack full [changelog](https://github.com/tntblockman/TnTpack-Modpack/blob/master/changelog) found here.
+Modpack full changelog found [here](https://github.com/tntblockman/TnTpack-Modpack/blob/master/changelog).
 
-For all issues you encounter related to pack, please post your issue here [issue page](https://github.com/tntblockman/TnTpack-Modpack/issues).
+For all issues you encounter related to pack, please post your issue [here](https://github.com/tntblockman/TnTpack-Modpack/issues).
 
-Some hints as to what you’re about to get yourself into with this pack;
+-------------------------
 
-* Infinite water is disabled 
-* All ore generating is handled by GregTech
-* Caving is not as safe anymore
-* Dungeons are not what they seem
-* Day and night time cycles are doubled
+Installation
+
+# This pack requires Java 8 or higher version to work
+
+Although pack should work ok without, I highly recommend installing Fastcraft.  Fastcraft adds many performance improvements to the game.  Download [here](http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820&pageNo=1).
+
+Recommended computer specs
+
+OS: Windows® 7, Windows 8.1, Windows 10 (64-bit versions only)
+Processor: Intel Core i5-2400 | AMD FX-6100, or better
+Memory: 6 GB RAM with 3GB assigned to Minecraft client
+Graphics: NVIDIA GeForce GTX 650 with 2 GB 
+
+-------------------------
 
 We’re always open to ideas/suggestions from the public as to what to add or change to future versions of pack.  But keep these main pack objectives in mind when suggesting ideas on the forum(soon) or [issue page](https://github.com/tntblockman/TnTpack-Modpack/issues);
 
 * RF(power) is to be kept to a minimum.
-* Power mostly focused with EU and pressure (PneumaticCraft).
+* Power mostly focused with EU (GregTech) and pressure (PneumaticCraft).
 * Mod has to have unique features and not just repeat features that are already provided by other mods in the pack.        Example would be we don’t want to have 20+ other mods that add tubes or pipes for transportation in the pack. 
+
+-------------------------
 
 ##Current Modpack version 0.9.3 mod list
 | Mod | Version | Link | Mod authors |
